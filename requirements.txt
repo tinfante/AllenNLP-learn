@@ -1,1 +1,1 @@
-allennlp==0.1a6
+-e git+https://github.com/allenai/allennlp.git@13e2f1e845cdcb593eb582bb8103f22a69b108c1#egg=allennlp
